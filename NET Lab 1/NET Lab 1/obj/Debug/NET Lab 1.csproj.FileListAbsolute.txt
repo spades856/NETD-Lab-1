@@ -1,0 +1,10 @@
+C:\Users\jd465\source\repos\NET Lab 1\NET Lab 1\bin\Debug\NET Lab 1.exe.config
+C:\Users\jd465\source\repos\NET Lab 1\NET Lab 1\bin\Debug\NET Lab 1.exe
+C:\Users\jd465\source\repos\NET Lab 1\NET Lab 1\bin\Debug\NET Lab 1.pdb
+C:\Users\jd465\source\repos\NET Lab 1\NET Lab 1\obj\Debug\NET_Lab_1.frmUnitAverage.resources
+C:\Users\jd465\source\repos\NET Lab 1\NET Lab 1\obj\Debug\NET_Lab_1.Properties.Resources.resources
+C:\Users\jd465\source\repos\NET Lab 1\NET Lab 1\obj\Debug\NET Lab 1.csproj.GenerateResource.cache
+C:\Users\jd465\source\repos\NET Lab 1\NET Lab 1\obj\Debug\NET Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\jd465\source\repos\NET Lab 1\NET Lab 1\obj\Debug\NET Lab 1.exe
+C:\Users\jd465\source\repos\NET Lab 1\NET Lab 1\obj\Debug\NET Lab 1.pdb
+C:\Users\jd465\source\repos\NET Lab 1\NET Lab 1\obj\Debug\NET Lab 1.csprojAssemblyReference.cache
